@@ -30,7 +30,9 @@ The primary goals of this lab include:
 | 0.99      | 1.00   | 1.00     | 1135    |
 | 0.99      | 0.99   | 0.99     | 1032    |
 | ...       | ...    | ...      | ...     |
-| **Overall Accuracy** | **0.99** | **Weighted Avg: 0.99** |
+
+ - **Overall Accuracy : 0.99**
+ - **Weighted Avg: 0.99** 
 
 ---
 
