@@ -23,7 +23,8 @@ The primary goals of this lab include:
 - **Loss during training**:
 - Epoch 1: Loss = 0.0058 Epoch 2: Loss = 0.0039 Epoch 3: Loss = 0.0073 Epoch 4: Loss = 0.0052 Epoch 5: Loss = 0.0048
 - **Test Accuracy**: 99.12%  
-- **Classification Report**:  
+- **Classification Report**:
+  
 | Precision | Recall | F1-Score | Support |
 |-----------|--------|----------|---------|
 | 0.99      | 1.00   | 0.99     | 980     |
